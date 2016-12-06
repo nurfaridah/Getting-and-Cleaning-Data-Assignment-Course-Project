@@ -1,10 +1,7 @@
-# Getting-and-Cleaning-Data-Assignment-Course-Project
-Week 4; 
-
 
 # Getting and Cleaning Data
 
-## Course Project
+## Course Project Week 4
 
 ## The dataset includes the following files:
 =========================================
